@@ -1,3 +1,4 @@
+<img width="471" height="330" alt="image" src="https://github.com/user-attachments/assets/683d4754-0edb-49a3-a837-bb07f4150615" />
 # 🚦 Digital Loket – Parking Permit System for Gemeente Den Haag
 
 ## 🧭 1. Project Overview
